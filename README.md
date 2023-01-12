@@ -1,6 +1,18 @@
 # Office Party
+
+##Link
+
+
 ## Description
 This app uses Node, NPM, Inquirer, Email-Validation, and Jest. User will follow prompts then recieve a webpage with their teams information. 
+
+## Screenshots 
+![screencapture-file-C-Users-18126-bootcamp-prework-mdo10-index-html-2023-01-11-19_03_15](https://user-images.githubusercontent.com/114121861/211973166-b90d731d-f02e-493f-8c16-f08f89a1264d.png)
+
+##Credits
+Juan Delgado, tutor
+Johnny, TA
+Eli Montoya, Instructor
 
 ## User Story
 ```
